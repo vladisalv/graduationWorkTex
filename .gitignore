@@ -1,0 +1,5 @@
+# termpaper
+termpaper.*
+!termpaper.tex
+!termpaper.pdf
+image/*.pdf

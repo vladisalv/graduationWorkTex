@@ -1,0 +1,24 @@
+:e      ++enc=cp1251 termpaper.tex
+:tabnew ++enc=cp1251 packages.tex
+:tabnew ++enc=cp1251 styles.tex
+:tabnew ++enc=cp1251 names.tex
+:tabnew ++enc=cp1251 title.tex
+:tabnew ++enc=cp1251 abstract-ru.tex
+:tabnew ++enc=cp1251 abstract-en.tex
+:tabnew ++enc=cp1251 contents.tex
+:tabnew ++enc=cp1251 introduction.tex
+:tabnew ++enc=cp1251 part1.tex
+:tabnew ++enc=cp1251 part2.tex
+:tabnew ++enc=cp1251 part3.tex
+:tabnew ++enc=cp1251 part4.tex
+:tabnew ++enc=cp1251 part5.tex
+:tabnew ++enc=cp1251 part6.tex
+:tabnew ++enc=cp1251 part7.tex
+:tabnew ++enc=cp1251 conclusion.tex
+:tabnew ++enc=cp1251 lists.tex
+:tabnew ++enc=cp1251 appendix.tex
+:tabnew ++enc=cp1251 references.tex
+:tabnew ++enc=cp1251 biblio.bib
+:tabnew ++enc=cp1251 README.md
+:tabnew ++enc=cp1251 Makefile
+gt
