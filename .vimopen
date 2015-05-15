@@ -1,6 +1,9 @@
 :e      ++enc=cp1251 termpaper.tex
 :tabnew ++enc=cp1251 introduction.tex
 :tabnew ++enc=cp1251 part1.tex
+:tabnew ++enc=cp1251 part2.tex
+:tabnew ++enc=cp1251 part3.tex
 :tabnew ++enc=cp1251 conclusion.tex
 :tabnew ++enc=cp1251 references.tex
+:tabnew ++enc=cp1251 biblio.bib
 gt
