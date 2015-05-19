@@ -1,7 +1,7 @@
 set terminal png
-set output 'gpuA.png'		# установка вывода
+set output '../image/gpuA.png'		# установка вывода
 
-set title "Время работы с использованием GPU и без использования GPU"
+set title "Количество процессов: 1"
 set ylabel "время (сек)"
 set xlabel "этапы вычислений"
 
@@ -16,5 +16,5 @@ set key outside # Вынести легенду за график
 
 #set xtic rotate by 45 scale 0 offset character -6,-2
 
-plot 'gpuA.data' u 2 lt rgb 'red' title "GPU",\
-     'gpuA.data' u 1 lt rgb 'blue' title "HOST"
+plot 'data/gpuA.data' u 2 lt rgb 'red' title "GPU",\
+     'data/gpuA.data' u 1 lt rgb 'blue' title "HOST"

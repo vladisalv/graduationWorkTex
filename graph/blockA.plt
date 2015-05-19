@@ -1,7 +1,7 @@
 set terminal png
-set output 'pic/blockA.png'
+set output '../image/blockA.png'
 
-set title "Зависимость времени работы блочного метода от размера блока"
+set title "Блочная программа. Количество процессов: 4"
 set xlabel "размер блока"
 set ylabel "время (сек)"
 

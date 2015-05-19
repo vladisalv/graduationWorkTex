@@ -1,0 +1,14 @@
+#!/bin/sh
+
+gnuplot blockA.plt
+gnuplot blockBG.plt
+gnuplot blockBH.plt
+gnuplot gpuA.plt
+gnuplot gpuB.plt
+gnuplot gpuC1a.plt
+gnuplot gpuC1b.plt
+gnuplot gpuC2.plt
+gnuplot masAa.plt
+gnuplot masAb.plt
+gnuplot masBa.plt
+gnuplot masBb.plt
