@@ -12,7 +12,7 @@ TEX_FILES = $(wildcard *.tex)
 
 .PHONY: view clean vim print
 
-all: build view
+all: build
 
 build: $(TEX_FILES)
 	@echo "==============================================================================="
